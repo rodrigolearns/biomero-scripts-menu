@@ -30,7 +30,7 @@ def read(fname):
 VERSION = '0.0.1.dev0'
 
 
-setup(name="biomero",
+setup(name="biomero_scripts_menu",
       packages=find_packages(exclude=['ez_setup']),
       version=VERSION,
       description="Biomero scripts menu plugin for OMERO.web",

@@ -29,4 +29,4 @@ from django.apps import AppConfig
 
 class BiomeroScriptMenu(AppConfig):
     name = "biomero_scripts_menu"
-    label = "biomero"
+    label = "biomero_scripts_menu"
